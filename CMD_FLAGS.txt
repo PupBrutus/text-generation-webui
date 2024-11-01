@@ -1,3 +1,4 @@
 # Only used by the one-click installer.
 # Example:
 # --listen --api
+ --api --extensions api  --model Rocinante-12B-v1.1-Q8_0.gguf
